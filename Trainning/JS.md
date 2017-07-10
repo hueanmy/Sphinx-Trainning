@@ -7,6 +7,11 @@
   * It is primarily client side.
   * While originally designed as a scripting language , it is actually a fully featured language.
 * What can we do with Js?
+  * Can be as simple as small enhancements like infinite scrolling.
+  * Prallax
+  * Game in the brower
+  * For the "IoT": robot , wearable text, and more,...
+  * Full appliaction
 *
 
 
@@ -38,3 +43,7 @@
 * Accessing Nested Arrays
 * Iterate with Js for loop
 * Profile Lookup
+
+### OOP in Js
+* Lap lai Array with Map
+  *
